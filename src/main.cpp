@@ -7,7 +7,7 @@
 // General parameters
 
 #define DEFAULT_CHANNEL_VALUE 1500
-#define DEBUG
+//#define DEBUG
 
 // PPM Parameters
 
